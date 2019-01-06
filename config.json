@@ -1,0 +1,17 @@
+{
+    "params":
+    {
+        "local_server" : "True",
+        "local" : "mysql+pymysql://root:Sem123@localhost:3306/learnforgrow",
+        "prod" : "mysql+pymysql://root:Sem123@localhost:3306/learnforgrow",
+        "blog_name" :"Coding Thunder",
+        "tag_line" :"Today is day, one life Baby",
+        "gmail_name": "kamlesh.prajapat@sait.ac.in",
+        "gmail_pass" : "Sem123##",
+        "about_text" : "Hi i'm sem and i' a programmer and i help you any problem with the programming",
+        "post_no" : 2,
+        "admin_img" : "admin.svg",
+        "admin_user" : "Sem@Sem",
+        "admin_pass" : "Sem123"
+    }
+}
